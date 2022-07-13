@@ -1,2 +1,2 @@
 # Space-Invaders
-Space shooter game using sfml library
+Space shooter game using c++ with sfml library
